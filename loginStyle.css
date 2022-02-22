@@ -1,0 +1,30 @@
+body{
+    background: rgb(47, 51, 74);
+    text-align: center;
+}
+p{
+    color: hsl(60, 30%, 96%);
+    margin: 30px;
+    font-size: larger;
+}
+h2{
+    color: hsl(60, 30%, 96%);
+    font-size: 50px;
+}
+input{
+    color: hsl(60, 30%, 96%);
+    height: 30px;
+    width: 210px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-width: 3px;
+    border-color: #ff6e96;
+    background-color: rgb(62, 67, 95);
+}
+button{
+    background-color: rgb(47, 51, 74);
+    border: none;
+    color: #fa3c72;
+    font-size: 30px;
+}

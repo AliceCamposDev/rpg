@@ -1,0 +1,19 @@
+body{
+    background: rgb(47, 51, 74);
+    text-align: center;
+}
+p{
+    color: hsl(60, 30%, 96%);
+    margin: 30px;
+    font-size: larger;
+}
+h2{
+    color: hsl(60, 30%, 96%);
+    font-size: 50px;
+}
+button{
+    background-color: rgb(47, 51, 74);
+    border: none;
+    color: #fa3c72;
+    font-size: 15px;
+}
